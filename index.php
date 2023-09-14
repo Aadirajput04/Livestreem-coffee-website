@@ -10,7 +10,11 @@
 </head>
 
 <body>
+    <?php
+    
+    include "header.php";
 
+    ?>
 
 
     <section class="main-hero-section">

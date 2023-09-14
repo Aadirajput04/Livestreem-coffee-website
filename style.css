@@ -5,6 +5,189 @@
     margin: 0;
 }
 
+.side-padding{
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+
+.page-width{
+    max-width: 1920px;
+    margin:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =================================================navbar section starts here===================================================== */
+
+
+.contact-btn{
+    padding: 11px 30px;
+    background-color: #CE8F28;
+    display: flex;
+    color: #fff;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+}
+
+
+.active-nav {
+    color: #DD7F00 !important;
+
+
+}
+
+
+header li {
+    color: #7F7F7F;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+header {
+    padding: 25px 0;
+    background-color: #fff;
+  
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+ul {
+    list-style: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    justify-content: space-around;
+}
+
+ul a {
+    color: #7F7F7F;
+    font-family: 'Poppins',sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+ul li:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+
+#hamburger-icon {
+    margin: auto 0;
+    display: none;
+    cursor: pointer;
+}
+
+#hamburger-icon div {
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.open .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-6px, 6px);
+    transform: rotate(-45deg) translate(-6px, 6px);
+}
+
+.open .bar2 {
+    opacity: 0;
+}
+
+.open .bar3 {
+    -webkit-transform: rotate(45deg) translate(-6px, -8px);
+    transform: rotate(45deg) translate(-6px, -8px);
+}
+
+.open .mobile-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.mobile-menu {
+    display: none;
+    position: absolute;
+    background-color: #161616;
+    top: 130px;
+    left: 0;
+    height: calc(100vh - 147px);
+    width: 100%;
+}
+
+.mobile-menu li {
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 850px) {
+    header nav {
+        display: none;
+    }
+
+    #hamburger-icon {
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================================================================home section starts here======================================= */
+
 .main-hero-section {
     background: url(./img/hero-main.png);
     background-repeat: no-repeat;
