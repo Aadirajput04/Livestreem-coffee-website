@@ -13,12 +13,14 @@ function isCurrentPage($pageName)
             </li>
             <li><a <?php if (isCurrentPage('about.php')) echo 'class="active-nav"' ; ?> href="./about.php" >About</a>
             </li>
-            <li><a <?php if (isCurrentPage('product.php')) echo 'class="active-nav"' ; ?> href="./product.php" >
+            <li><a <?php if (isCurrentPage('products.php')) echo 'class="active-nav"' ; ?> href="./products.php" >
                     Products</a></li>
-            <li><a <?php if (isCurrentPage('review.php')) echo 'class="active-nav"' ; ?> href="./review.php" >
+            <li><a <?php if (isCurrentPage('services.php')) echo 'class="active-nav"' ; ?> href="./services.php" >
                     Services</a></li>
-            <li><a <?php if (isCurrentPage('f&q.php')) echo 'class="active-nav"' ; ?> href="./f&q.php" >
+            <li><a <?php if (isCurrentPage('blog.php')) echo 'class="active-nav"' ; ?> href="./blog.php" >
                     Blog</a></li>
+                    <li><a <?php if (isCurrentPage('gallery.php')) echo 'class="active-nav"' ; ?> href="./gallery.php" >
+                        Gallery</a></li>
             <li><a <?php if (isCurrentPage('contact.php')) echo 'class="active-nav"' ; ?> href="./contact.php" >
                     Contact Us</a></li>
 
@@ -45,15 +47,16 @@ function isCurrentPage($pageName)
             </li>
             <li><a <?php if (isCurrentPage('about.php')) echo 'class="active-nav"' ; ?> href="./about.php" >About</a>
             </li>
-            <li><a <?php if (isCurrentPage('product.php')) echo 'class="active-nav"' ; ?> href="./product.php" >
-                    Product</a></li>
-            <li><a <?php if (isCurrentPage('review.php')) echo 'class="active-nav"' ; ?> href="./review.php" >
+            <li><a <?php if (isCurrentPage('products.php')) echo 'class="active-nav"' ; ?> href="./products.php" >
+                    Products</a></li>
+            <li><a <?php if (isCurrentPage('services.php')) echo 'class="active-nav"' ; ?> href="./services.php" >
                     Services</a></li>
-            <li><a <?php if (isCurrentPage('f&q.php')) echo 'class="active-nav"' ; ?> href="./f&q.php" >
+            <li><a <?php if (isCurrentPage('blog.php')) echo 'class="active-nav"' ; ?> href="./blog.php" >
                     Blog</a></li>
+                    <li><a <?php if (isCurrentPage('gallery.php')) echo 'class="active-nav"' ; ?> href="./gallery.php" >
+                        Gallery</a></li>
             <li><a <?php if (isCurrentPage('contact.php')) echo 'class="active-nav"' ; ?> href="./contact.php" >
                     Contact Us</a></li>
-
         </ul>
     </div>
 </header>
