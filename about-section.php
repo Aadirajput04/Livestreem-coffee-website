@@ -1,4 +1,4 @@
-<section class="parent-about-section">
+<section class="parent-about-section page-width">
     <div class="inner-about-section side-padding">
 
         <div class="left-about-section">

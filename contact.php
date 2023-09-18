@@ -18,7 +18,7 @@
 
 
 
-    <section class="head-img">
+    <section class="head-img page-width">
         <div class="heading-lable side-padding">
             <h1>Contact us</h1>
         </div>
@@ -42,7 +42,7 @@
 
     
     <section class="contact-main-form side-padding page-width">
-        <h2>Let’s talk</h2>
+      
         <div class="contact-main-child">
             <div class="left-blue-box">
                 <img class="eclips" src="./imgs/33333333333333333333333.png" alt="">

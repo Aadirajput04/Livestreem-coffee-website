@@ -18,7 +18,7 @@
 
 
 
-    <section class="head-img">
+    <section class="head-img page-width">
         <div class="heading-lable side-padding">
             <h1>About us</h1>
         </div>
@@ -32,7 +32,7 @@
     include "about-section.php";
 
     ?>
-    <section class="vision-mission side-padding">
+    <section class="vision-mission side-padding page-width">
 
 
         <div class="v-boxes">

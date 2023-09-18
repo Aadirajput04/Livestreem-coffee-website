@@ -12,7 +12,7 @@
 
 
 .page-width {
-    max-width: 1920px;
+    max-width: 2000px;
     margin: auto;
 }
 
@@ -721,6 +721,7 @@ footer a {
     flex-direction: column;
     gap: 45px;
     padding-top: 60px;
+    margin-bottom: 100px;
     padding-bottom: 60px;
     background-color: #230B00;
     padding-top: 60px;
@@ -1036,8 +1037,14 @@ footer a {
     flex-direction: column;
     gap: 50px;
     margin-bottom: 100px;
+    position: relative;
 }
 
+.pingwin-5 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
 
 .service-child-box {
     display: flex;
@@ -1081,6 +1088,10 @@ footer a {
     flex-direction: row;
     align-items: center;
     gap: 5px;
+}
+
+.reverse {
+    flex-direction: row-reverse !important;
 }
 
 .services-main-box h2 {
@@ -1287,6 +1298,12 @@ footer a {
     margin-right: 10px;
     /* border-radius: 50%; */
     padding-top: 10px;
+    color: #8D8D8D;
+    font-family: 'Outfit', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .checkbox-input {
@@ -1294,7 +1311,7 @@ footer a {
 }
 
 .submit-button {
-    border-radius: 5px;
+
     background: var(--primery, #CE8F28);
     box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.12);
     margin-top: 30px;
@@ -1325,11 +1342,137 @@ footer a {
     line-height: normal;
 }
 
-.checkbox-label {
-    color: #8D8D8D;
-    font-family: 'Outfit', sans-serif;
-    font-size: 17px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+
+/* ==========================================================================================responsive css starts here============================= */
+
+
+@media only screen and (max-width: 1540px) {
+
+    .side-padding {
+        padding-left: 110px;
+        padding-right: 110px;
+    }
+
+    .main-hero-section .hero-main-text {
+        padding-top: 4.3rem;
+        padding-bottom: 2.1rem;
+
+        padding-right: 6.75rem;
+        /* max-width: 52.7rem; */
+        padding-left: 42.5rem;
+    }
+
+    .mouse {
+        width: 4.5rem;
+        margin-left: 80px;
+    }
+
+
+
+    .blog-boxes .blog-box img {
+        height: auto;
+        width: 420px;
+    }
+
+    .gallery-images img {
+        width: 420px;
+        height: auto;
+    }
+
+    .v-box img {
+        width: 600px;
+        height: auto;
+    }
+
+    .vision-mission div:nth-child(4) {
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+
+}
+
+@media only screen and (max-width: 1444px) {
+
+    .side-padding {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    ul {
+        gap: 25px;
+    }
+
+    .main-hero-section .hero-main-text {
+        padding-top: 4.3rem;
+        padding-bottom: 2.1rem;
+        padding-right: 5rem;
+        /* max-width: 52.7rem; */
+        padding-left: 41rem;
+    }
+
+    .mouse {
+        width: 3.5rem;
+        margin-left: 100px;
+    }
+
+    .left-about-section img {
+        width: 550px;
+        height: auto;
+    }
+
+    .manu-items {
+        gap: 20px;
+    }
+
+    .manu-section h2 {
+
+        font-size: 32px;
+    }
+
+    .blog-boxes .blog-box img {
+        height: auto;
+        width: 370px;
+    }
+.right-review-box img{
+    width: auto;
+    height: 600px;
+}
+.right-review-box img {
+    width: auto;
+    height: 468px;
+}
+.service-child-box {
+gap: 25px;
+}
+
+.services-text {
+padding: 0 20px;
+
+}
+
+
+}
+
+
+
+
+@media only screen and (max-width: 1240px){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

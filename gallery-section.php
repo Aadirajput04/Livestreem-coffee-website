@@ -1,4 +1,4 @@
-<section class="gallery-section side-padding">
+<section class="gallery-section side-padding page-width">
 
     <div class="gallery-heading-text">
         <h2> <span> Our </span>gallery</h2>

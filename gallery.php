@@ -18,7 +18,7 @@
 
 
 
-    <section class="head-img">
+    <section class="head-img page-width">
         <div class="heading-lable side-padding">
             <h1>Gallery</h1>
         </div>

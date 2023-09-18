@@ -18,7 +18,7 @@
 
 
 
-    <section class="head-img">
+    <section class="head-img page-width">
         <div class="heading-lable side-padding">
             <h1>Services</h1>
         </div>
@@ -28,6 +28,7 @@
     <section class="services-main-box side-padding">
 
         <h2><span> Our Special Features</span> that make</h2>
+        <img class="pingwin-5" src="./img/pngwing 5.png" alt="">
 
         <div class="service-child-box">
             <img src="./img/services.png" alt="">
@@ -51,8 +52,10 @@
         </div>
 
 
-        <div class="service-child-box">
+        <div class="service-child-box reverse">
             
+            <img src="./img/services.png" alt="">
+
             <div class="services-text">
 
                 <h3> <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
@@ -67,8 +70,6 @@
 
                     
             </div>
-
-            <img src="./img/services.png" alt="">
 
 
         </div>

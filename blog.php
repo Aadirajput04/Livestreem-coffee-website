@@ -16,18 +16,14 @@
 
     ?>
 
-
-
-    <section class="head-img">
+    <section class="head-img page-width">
         <div class="heading-lable side-padding">
             <h1>Blog</h1>
         </div>
 
     </section>
 
-
-
-    <section class="blog-section side-padding">
+    <section class="blog-section side-padding page-width">
 
         <div class="blog-heading-text">
 
@@ -115,19 +111,6 @@
     include "footer.php";
 
     ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </body>

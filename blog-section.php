@@ -1,4 +1,4 @@
-<section class="blog-section side-padding">
+<section class="blog-section side-padding page-width">
 
     <div class="blog-heading-text">
 
