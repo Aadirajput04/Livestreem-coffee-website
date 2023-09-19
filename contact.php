@@ -19,7 +19,7 @@
 
 
     <section class="head-img page-width">
-        <div class="heading-lable side-padding">
+        <div class="heading-lable ">
             <h1>Contact us</h1>
         </div>
 
