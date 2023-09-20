@@ -2332,7 +2332,10 @@ footer a {
         padding-right: 15px;
     }
 
+#brand img{
+    width: 75%;
 
+}
     h5 {
 
         color: #FFF;
@@ -2486,10 +2489,22 @@ footer a {
 
 
 
-
-
-
-
+    .main-hero-section .hero-main-text {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-right: 0rem;
+        /* max-width: 52.7rem; */
+        padding-left: 7rem;
+    }
+    a {
+        font-size: 14px;
+    }
+    .main-hero-section a {
+        padding: 7px 15px;
+        max-width: 100px;
+        margin-top: 10px;
+    }
+    
 
 
 
