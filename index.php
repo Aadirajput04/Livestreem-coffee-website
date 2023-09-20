@@ -24,8 +24,8 @@
             <h5>Welcome To <span> Livestream Coffee</span></h5>
             <h1> <span>Indulge in Rich </span> Flavours and Irresistible Aroma </h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing en odio in efficitur. Fusce tincidunt purus et dui
-                molestie Lorem ipsum dolor sit amet, consectetur adipiscing en odio in efficitur. Fusce tincidunt purus
-                et dui molestie
+                molestie <div class="hidden"> Lorem ipsum dolor sit amet, consectetur adipiscing en odio in efficitur. Fusce tincidunt purus
+                et dui molestie</div>
             </p>
             <a href="./products.php">Buy Now<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"
                     fill="none">
