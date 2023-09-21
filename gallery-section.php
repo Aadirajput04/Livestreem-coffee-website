@@ -10,11 +10,11 @@
     <div class="gallery-images">
 
         <img src="./img/gallery-img.png" alt="">
-        <img src="./img/gallery-img.png" alt="">
-        <img src="./img/gallery-img.png" alt="">
-        <img src="./img/gallery-img.png" alt="">
-        <img src="./img/gallery-img.png" alt="">
-        <img src="./img/gallery-img.png" alt="">
+        <img src="./img/gl6.png" alt="">
+        <img src="./img/gl22.png" alt="">
+        <img src="./img/gl43.png" alt="">
+        <img src="./img/gl3 24.png" alt="">
+        <img src="./img/gl5.png" alt="">
 
 
     </div>
