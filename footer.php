@@ -14,12 +14,12 @@
 
         <div class="page-links">
             <h5>Pages</h5>
-            <a href="#">Home</a>
-            <a href="#">About us</a>
-            <a href="#">Blog</a>
-            <a href="#">Reviews</a>
-            <a href="#">Gallery</a>
-            <a href="#">Contact us</a>
+            <a href="./index.php">Home</a>
+            <a href="./about.php">About us</a>
+            <a href="./blog.php">Blog</a>
+            <a href="./services.php">Services</a>
+            <a href="./gallery.php">Gallery</a>
+            <a href="./contact.php">Contact us</a>
         </div>
 
         <div class="services-links">
@@ -59,7 +59,7 @@
                         </clipPath>
                     </defs>
                 </svg>megacoding123@gmail.com</a>
-            <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+            <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 20 20" fill="none">
                     <path
                         d="M9.99993 0C6.32399 0 3.33325 2.99074 3.33325 6.66668C3.33325 7.7702 3.60915 8.86434 4.13364 9.8348L9.63536 19.7852C9.7086 19.9178 9.84817 20 9.99993 20C10.1517 20 10.2913 19.9178 10.3645 19.7852L15.8683 9.83152C16.3907 8.86434 16.6666 7.77016 16.6666 6.66664C16.6666 2.99074 13.6759 0 9.99993 0ZM9.99993 10C8.16196 10 6.66661 8.50465 6.66661 6.66668C6.66661 4.82871 8.16196 3.33336 9.99993 3.33336C11.8379 3.33336 13.3333 4.82871 13.3333 6.66668C13.3333 8.50465 11.8379 10 9.99993 10Z"
                         fill="white" />

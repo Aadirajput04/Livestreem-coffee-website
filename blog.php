@@ -19,6 +19,7 @@
     <section class="head-img page-width">
         <div class="heading-lable ">
             <h1>Blog</h1>
+            <hr>
         </div>
 
     </section>

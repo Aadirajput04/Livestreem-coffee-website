@@ -67,7 +67,7 @@
 
                 <img src="./img/stars.png" alt="">
 
-                <h2>Select an Option:</h2>
+                <h3>Our Signature Menu</h3>
                 <div class="radio-container">
                     <label class="radio-label">
                         <input type="radio" name="options" value="first"> Ethniopian yiragacheffe
@@ -124,37 +124,7 @@
             </svg>
         </a>
 
-
-
-
-
-
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -238,44 +208,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <?php
     
     include "blog-section.php";
 
@@ -314,21 +249,6 @@
     </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <?php
     
     include "gallery-section.php";
@@ -343,22 +263,6 @@
     include "footer.php";
 
     ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
