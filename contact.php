@@ -32,6 +32,7 @@
       
         <div class="contact-main-child">
             <div class="left-blue-box">
+                <img class="round-circle" src="./img/33333333333333333333333.png" alt="">
                 <img class="eclips" src="./imgs/33333333333333333333333.png" alt="">
 
                 <div class="left-head-lable">
@@ -80,24 +81,21 @@
                 </div>
             </div>
             <div class="box">
+                <img class="letter" src="./img/letter_send 11111111111.png" alt="">
                 <div class="row">
                     <label class="label" for="first-name"></label>
                     <input class="input" type="text" id="first-name" name="first_name" placeholder=" first name">
                     <label class="label" for="last-name"></label>
                     <input class="input" type="text" id="last-name" name="last_name" placeholder=" last name">
                 </div>
-                <!-- <div class="row">
-                    
-                </div> -->
+               
                 <div class="row">
                     <label class="label" for="email"></label>
                     <input class="input" type="email" id="email" name="email" placeholder=" email">
                     <label class="label" for="phone"></label>
                     <input class="input" type="tel" id="phone" name="phone" placeholder=" phone number">
                 </div>
-                <!-- <div class="row">
-                    
-                </div> -->
+               
                 <div class="row">
                     <label class="label" for="message"></label>
                     <textarea class="message-box" id="message" name="message" rows="4"

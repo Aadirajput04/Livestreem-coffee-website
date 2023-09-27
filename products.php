@@ -43,104 +43,105 @@
 
 
         <div class="manu-items-list">
-          
-           
-           
-           
-           
-         
-           
-          
-           
-           
-        
-           
+
 
             <div class="image-hover-effect">
                 <img src="./img/Rectangle 125.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 127.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 126.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 125.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 128.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 129.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 126.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 125.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 127.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 126.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 125.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-               <div class="image-hover-effect">
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+            <div class="image-hover-effect">
                 <img src="./img/Rectangle 128.png" alt="">
-                   <div class="hover-content">
-                       <p>Caramel Macchiato</p>
-                       <span class="favorite-icon">&#9825;</span>
-                   </div>
-               </div>
-                                                                                                                                                                                    
+                <div class="hover-content">
+                    <p>Caramel Macchiato</p>
+                    <span class="favorite-icon"><img src="./img/heart.png" alt=""></span>
+                    <span class="favorite-icon"><img src="./img/wh3.png" alt=""></span>
+                </div>
+            </div>
+
         </div>
 
 
