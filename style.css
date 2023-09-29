@@ -1329,8 +1329,12 @@ h3 {
     position: relative;
     display: inline-block;
     overflow: hidden;
-}
+    width: 100%;
 
+}
+.image-hover-effect:hover .gradient{
+opacity: 1;
+}
 /* Style the image */
 .image-hover-effect img {
     max-width: 100%;
@@ -1349,18 +1353,19 @@ h3 {
     height: 100%;
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.8) 100%);
     opacity: 0;
-    transition: opacity 0.3s;
+    transition: all 0.3s;
 }
 
 /* Style the text and icon container */
 .image-hover-effect .hover-content {
     position: absolute;
-    bottom: 2px;
-    left: 40%;
-    transform: translate(-50%, -50%);
+    bottom: 0;
+    left: 14px;
+    padding: 24px 8px;
+   
     text-align: left;
     opacity: 0;
-    transition: opacity 0.3s;
+    transition: all 0.3s;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -1368,7 +1373,9 @@ h3 {
 
     gap: 10px;
 }
-
+.image-hover-effect .hover-content img{
+    opacity: 1 !important;
+}
 /* Style the text */
 .image-hover-effect .hover-content p {
     color: white;
@@ -1386,19 +1393,30 @@ h3 {
 .image-hover-effect:hover img {
     transform: scale(1.05);
 
-    filter: opacity(0.3);
+
+   
 }
+
 
 .image-hover-effect:hover::before {
     opacity: 1;
+    
 }
 
 .image-hover-effect:hover .hover-content {
     opacity: 1;
 
 }
-
-
+.gradient{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.8) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: all 0.2s;
+}
 
 
 
